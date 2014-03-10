@@ -103,6 +103,11 @@
 &lt;li&gt;initial version&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;p&gt;
+Provide defects, request for enhancements and feedback at &lt;a href="https://github.com/markiewb/nb-editor-zoom/issues"&gt;https://github.com/markiewb/nb-editor-zoom/issues&lt;/a&gt;
+&lt;/p&gt;
+Compatible to NetBeans 7.2.1+ and JDK6+.
+
 &lt;p&gt;License: CDDL-GPL-2-CP - &lt;a href="http://www.netbeans.org/cddl-gplv2.html"&gt;http://www.netbeans.org/cddl-gplv2.html&lt;/a&gt;. Icons are taken from NetBeans sources.&lt;/p&gt;
 </description>
 </project>
