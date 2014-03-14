@@ -4,7 +4,7 @@
 
     <groupId>de.markiewb.netbeans.plugins</groupId>
     <artifactId>editor.zoom</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.1.0-SNAPSHOT</version>
     <packaging>nbm</packaging>
 
     <name>Editor zoom</name>
@@ -92,12 +92,17 @@
             </plugin>
         </plugins>
     </build>
-    <description>This plugins adds a toolbar and menu items for "Zoom in/out text" actions
+    <description>This plugins adds the actions "Zoom in"/"Zoom out"/"Zoom reset" to the menu bar and the editor toolbar
 &lt;p&gt;
-&lt;img src="https://raw.github.com/markiewb/nb-editor-zoom/master/doc/screenshot-1.0.0.png"/&gt;
+&lt;img src="https://raw.github.com/markiewb/nb-editor-zoom/master/doc/screenshot-1.1.0.png"/&gt;
 &lt;/p&gt;
 
 &lt;h2&gt;Updates&lt;/h2&gt;
+&lt;h3&gt;1.1.0:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[&lt;a href="https://github.com/markiewb/nb-editor-zoom/issues/2"&gt;Feature&lt;/a&gt;]: Add reset zoom action&lt;/li&gt;
+&lt;li&gt;[&lt;a href="https://github.com/markiewb/nb-editor-zoom/issues/3"&gt;Change&lt;/a&gt;]: Move zoom actions to editor toolbar&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3&gt;1.0.0:&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;initial version&lt;/li&gt;
