@@ -30,7 +30,7 @@ import org.openide.util.NbBundle.Messages;
 )
 @ActionReferences({
     @ActionReference(path = "Menu/View", position = 1151, separatorAfter = 1173),
-    @ActionReference(path = "Toolbars/Text Zoom", position = 51)
+    @ActionReference(path = "Editors/Toolbars/Default", position = 50020)
 })
 @Messages("CTL_ZoomOutAction=Zoom out text")
 public final class ZoomOutAction implements ActionListener {

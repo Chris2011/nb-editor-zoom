@@ -24,7 +24,8 @@ import org.openide.util.NbBundle.Messages;
         displayName = "#CTL_ZoomResetAction"
 )
 @ActionReferences({
-    @ActionReference(path = "Menu/View", position = 1153)
+    @ActionReference(path = "Menu/View", position = 1153),
+    @ActionReference(path = "Editors/Toolbars/Default", position = 50030)
 })
 @Messages("CTL_ZoomResetAction=Zoom reset")
 public final class ZoomResetAction implements ActionListener {

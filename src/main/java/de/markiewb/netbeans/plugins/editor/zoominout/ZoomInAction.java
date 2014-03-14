@@ -30,7 +30,7 @@ import org.openide.util.NbBundle.Messages;
 )
 @ActionReferences({
     @ActionReference(path = "Menu/View", position = 1150),
-    @ActionReference(path = "Toolbars/Text Zoom", position = 50)
+    @ActionReference(path = "Editors/Toolbars/Default", position = 50010, separatorBefore = 50009)
 })
 @Messages("CTL_ZoomInAction=Zoom in text")
 public final class ZoomInAction implements ActionListener {
