@@ -4,7 +4,7 @@
 
     <groupId>de.markiewb.netbeans.plugins</groupId>
     <artifactId>editor.zoom</artifactId>
-    <version>1.1.0-SNAPSHOT</version>
+    <version>1.1.0</version>
     <packaging>nbm</packaging>
 
     <name>Editor zoom</name>
@@ -66,7 +66,8 @@
                     <author>Benno Markiewicz (benno.markiewicz@googlemail.com)</author>
                     <homePageUrl>https://github.com/markiewb/nb-editor-zoom</homePageUrl>
                     <keystore>nbproject/private/keystore</keystore>
-                    <licenseName>Apache 2.0</licenseName>
+                    <keystorealias>myself</keystorealias>
+                    <licenseName>CDDL-GPL-2-CP</licenseName>
                 </configuration>
             </plugin>
 
@@ -102,6 +103,7 @@
 &lt;ul&gt;
 &lt;li&gt;[&lt;a href="https://github.com/markiewb/nb-editor-zoom/issues/2"&gt;Feature&lt;/a&gt;]: Add reset zoom action&lt;/li&gt;
 &lt;li&gt;[&lt;a href="https://github.com/markiewb/nb-editor-zoom/issues/3"&gt;Change&lt;/a&gt;]: Move zoom actions to editor toolbar&lt;/li&gt;
+&lt;li&gt;[&lt;a href="https://github.com/markiewb/nb-editor-zoom/issues/1"&gt;Feature&lt;/a&gt;]: Provide signed package for Plugin portal/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;1.0.0:&lt;/h3&gt;
 &lt;ul&gt;
