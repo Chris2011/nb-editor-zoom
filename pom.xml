@@ -99,6 +99,10 @@
 &lt;/p&gt;
 
 &lt;h2&gt;Updates&lt;/h2&gt;
+&lt;h3&gt;1.1.1:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[&lt;a href="https://github.com/markiewb/nb-editor-zoom/issues/4"&gt;Fix&lt;/a&gt;]: Provide a valid category for the update center&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3&gt;1.1.0:&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;[&lt;a href="https://github.com/markiewb/nb-editor-zoom/issues/2"&gt;Feature&lt;/a&gt;]: Add reset zoom action&lt;/li&gt;
